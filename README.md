@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET & javascript applications
 - 🌱 I’m currently learning adobe illustrator
 - 💞️ I’m looking to collaborate on javascript freelancing projects
-- 📫 For more info check this link----> http://www.devdood.tk/
+- 📫 For more info check this link http://www.devdood.tk/
 
 
 <!---
